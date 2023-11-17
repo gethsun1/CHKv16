@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1084867634598",
+    "project_id": "chkv17-8225a",
+    "storage_bucket": "chkv17-8225a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1084867634598:android:948316c37952a1b6a75b67",
+        "android_client_info": {
+          "package_name": "com.example.chkv16"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcQcqlwuXrnDP2bH_vw333XB7MZhu78sw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
